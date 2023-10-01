@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Hocus Pocus",
+      "description": "Un joven curioso se muda a Salem, donde lucha por encajar antes de despertar a un trío de brujas diabólicas que fueron ejecutadas en el siglo XVII.",
+      "image": "src/assets/movies/hocus-pocus.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Beetlejuice",
+      "description": "Los espíritus de una pareja fallecida son acosados por una familia insoportable que se ha instalado en su casa, y contratan a un espíritu maligno para que los expulse.",
+      "image": "src/assets/movies/beetlejuice.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Casper",
+      "description": "Un experto de lo paranormal y su hija se mudan a una casa abandonada habitada por tres fantasmas perversos y uno adorable.",
+      "image": "src/assets/movies/casper.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Nightmare Before Christmas",
+      "description": "En la Ciudad de las Calabazas, Jack Skellington, el Rey de Halloween, descubre la Navidad y decide traerla a su mundo de Halloween.",
+      "image": "src/assets/movies/nightmare-before-christmas.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Halloweentown",
+      "description": "Una joven descubre que proviene de una familia de brujos y se embarca en una aventura mágica en Halloweentown.",
+      "image": "src/assets/movies/halloweentown.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Monster House",
+      "description": "Tres amigos descubren que la casa del vecino está viva y deben enfrentarla para salvar a su vecindario.",
+      "image": "src/assets/movies/monster-house.webp"
+    },
+    {
+      "id": 7,
+      "title": "ParaNorman",
+      "description": "Norman, un niño que puede hablar con los muertos, debe salvar su ciudad de una maldición de brujería.",
+      "image": "src/assets/movies/paranorman.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Corpse Bride",
+      "description": "Un hombre se encuentra accidentalmente comprometido con una novia cadáver en el mundo de los muertos.",
+      "image": "src/assets/movies/corpse-bride.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Coraline",
+      "description": "Una niña descubre un mundo oscuro y peligroso detrás de una puerta secreta en su nueva casa.",
+      "image": "src/assets/movies/coraline.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Addams Family",
+      "description": "La peculiar familia Addams enfrenta desafíos cuando un astuto abogado intenta apoderarse de su fortuna.",
+      "image": "src/assets/movies/addams-family.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Witches",
+      "description": "Un niño se cruza con un grupo de brujas malvadas que planean convertir a todos los niños en ratones.",
+      "image": "src/assets/movies/the-witches.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Hotel Transylvania",
+      "description": "El conde Drácula dirige un hotel para monstruos, pero su vida se complica cuando un humano descubre el lugar.",
+      "image": "src/assets/movies/hotel-transylvania.jpeg"
+    }
+  ]
+}
