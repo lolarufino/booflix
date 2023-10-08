@@ -42,6 +42,9 @@
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px;
   padding: 16px 24px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .card-title {
@@ -72,6 +75,16 @@
   width: 24px;
   height: 24px;
   margin-left: 8px;
+}
+
+.card-watchMovie{
+  padding: 12px;
+  color: white;
+  background-color: #f83a02;
+  border: none;
+  border-radius: 12px;
+  margin-top: 8px;
+  font-family: "Arvo", serif;
 }
 
 @media only screen and (max-width: 992px) {

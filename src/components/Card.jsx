@@ -25,6 +25,7 @@ const Card = ({ movie }) => {
           />
         </h2>
         <p className={`${baseClass}-description`}>{description}</p>
+        <button className={`${baseClass}-watchMovie`}>Ver película</button>
       </section>
     </article>
   );
