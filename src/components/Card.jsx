@@ -25,7 +25,7 @@ const Card = ({ movie }) => {
           />
         </h2>
         <p className={`${baseClass}-description`}>{description}</p>
-        <button className={`${baseClass}-watchMovie`}>Ver película</button>
+        <button className={`${baseClass}-watchMovie`} aria-label="Ver película" title="Haz clic para ver la película">Ver película</button>
       </section>
     </article>
   );
